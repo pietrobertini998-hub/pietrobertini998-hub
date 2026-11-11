@@ -8,9 +8,9 @@ I use spatial data to answer ecological questions: where species are, how habita
 
 | Project | What it shows | Tools |
 |---|---|---|
-| [**Vaia storm and land cover change, Asiago Plateau**](https://github.com/TUO-NOME-UTENTE/vaia-land-cover-asiago) | Landsat time series 2014–2026, Random Forest classification, forest loss after the 2018 Vaia windstorm (−3,430 ha) | QGIS, Python (GDAL, scikit-learn), Landsat 8/9, Copernicus DEM |
-| [**Primates in the protected areas of the Republic of the Congo**](https://github.com/TUO-NOME-UTENTE/primates-congo-protected-areas) | Species richness per protected area, habitat, elevation and river distance of 249 GBIF records | QGIS, GBIF, ESA WorldCover, Copernicus DEM |
-| [**Customer distribution map, Rome (anonymised)**](https://github.com/TUO-NOME-UTENTE/rome-customer-hexmap) | Geocoding, heatmap and hexagonal grids for a real business client | QGIS, Nominatim, OpenStreetMap |
+| [**Vaia storm and land cover change, Asiago Plateau**](https://github.com/pietrobertini998-hub/vaia-land-cover-asiago) | Landsat time series 2014–2026, Random Forest classification, forest loss after the 2018 Vaia windstorm (−3,430 ha) | QGIS, Python (GDAL, scikit-learn), Landsat 8/9, Copernicus DEM |
+| [**Primates in the protected areas of the Republic of the Congo**](https://github.com/pietrobertini998-hub/primates-congo-protected-areas) | Species richness per protected area, habitat, elevation and river distance of 249 GBIF records | QGIS, GBIF, ESA WorldCover, Copernicus DEM |
+| [**Customer distribution map, Rome (anonymised)**](https://github.com/pietrobertini998-hub/rome-customer-hexmap) | Geocoding, heatmap and hexagonal grids for a real business client | QGIS, Nominatim, OpenStreetMap |
 
 ## Skills
 
